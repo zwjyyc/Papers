@@ -12,3 +12,5 @@ SoPa: Bridging CNNs, RNNs, and Weighted Finite-State Machines (2018/5/17)
 Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting （2018/5/29）
 
 Toward Abstractive Summarization Using Semantic Representations （2018/5/29）
+
+Global-Locally Self-Attentive Dialogue State Tracker （2018/5/29）
