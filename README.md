@@ -14,3 +14,5 @@ Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting （201
 Toward Abstractive Summarization Using Semantic Representations （2018/5/29）
 
 Global-Locally Self-Attentive Dialogue State Tracker （2018/5/29）
+
+Densely Connected Convolutional Networks （2018/6/7）
