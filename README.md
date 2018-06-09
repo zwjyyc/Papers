@@ -18,3 +18,5 @@ Global-Locally Self-Attentive Dialogue State Tracker （2018/5/29）
 Densely Connected Convolutional Networks （2018/6/7）
 
 Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Information （2018/6/7）
+
+Universal Sentence Encoder (2018/6/9)
