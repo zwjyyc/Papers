@@ -20,3 +20,5 @@ Densely Connected Convolutional Networks （2018/6/7）
 Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Information （2018/6/7）
 
 Universal Sentence Encoder (2018/6/9)
+
+A Decomposable Attention Model for Natural Language Inference （2018/6/9）
