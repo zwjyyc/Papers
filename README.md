@@ -22,3 +22,5 @@ Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Inf
 Universal Sentence Encoder (2018/6/9)
 
 A Decomposable Attention Model for Natural Language Inference （2018/6/9）
+
+UMBC EBIQUITY-CORE: Semantic Textual Similarity Systems （2018/6/11）
