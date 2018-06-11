@@ -26,3 +26,7 @@ A Decomposable Attention Model for Natural Language Inference （2018/6/9）
 UMBC EBIQUITY-CORE: Semantic Textual Similarity Systems （2018/6/11）
 
 A Simple Method for Commonsense Reasoning (2018/6/11)
+
+Towards Binary-Valued Gates for Robust LSTM Training （2018/6/11）
+
+Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora (2018/6/11)
