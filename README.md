@@ -24,3 +24,5 @@ Universal Sentence Encoder (2018/6/9)
 A Decomposable Attention Model for Natural Language Inference （2018/6/9）
 
 UMBC EBIQUITY-CORE: Semantic Textual Similarity Systems （2018/6/11）
+
+A Simple Method for Commonsense Reasoning (2018/6/11)
