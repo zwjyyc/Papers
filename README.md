@@ -30,3 +30,7 @@ A Simple Method for Commonsense Reasoning (2018/6/11)
 Towards Binary-Valued Gates for Robust LSTM Training （2018/6/11）
 
 Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora (2018/6/11)
+
+
+# Dialogue Papers
+TALKING TO MACHINES (STATISTICALLY SPEAKING) （2018/6/24）
