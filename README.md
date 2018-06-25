@@ -41,5 +41,8 @@ A Network-based End-to-End Trainable Task-oriented Dialogue System (2018/6/25)
 
 
 # Slides 
-Attention is All you Need
+Attention is All you Need \\
 https://nlp.stanford.edu/seminar/details/lkaiser.pdf
+
+Deep	Learning	for	Natural	Language	Generation	&	End-to-End	Dialogue	Modeling \\
+
