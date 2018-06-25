@@ -31,8 +31,10 @@ Towards Binary-Valued Gates for Robust LSTM Training （2018/6/11）
 Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora (2018/6/11)
 
 The Natural Language Decathlon: Multitask Learning as Question Answering （2018/6/25）
-## Though not explicitly designed for any one task, MQAN proves to be a strong model in the single-task setting as well, achieving state-of-the-art results on the semantic parsing component of decaNLP.
+### Though not explicitly designed for any one task, MQAN proves to be a strong model in the single-task setting as well, achieving state-of-the-art results on the semantic parsing component of decaNLP.
 
 
 # Dialogue Papers
 TALKING TO MACHINES (STATISTICALLY SPEAKING) （2018/6/24）
+
+A Network-based End-to-End Trainable Task-oriented Dialogue System (2018/6/25)
