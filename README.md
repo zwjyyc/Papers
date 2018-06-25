@@ -38,3 +38,8 @@ The Natural Language Decathlon: Multitask Learning as Question Answering （2018
 TALKING TO MACHINES (STATISTICALLY SPEAKING) （2018/6/24）
 
 A Network-based End-to-End Trainable Task-oriented Dialogue System (2018/6/25)
+
+
+# Slides 
+Attention is All you Need
+https://nlp.stanford.edu/seminar/details/lkaiser.pdf
