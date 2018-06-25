@@ -1,5 +1,4 @@
 # Papers
-paper reading
 
 Universal Language Model Fine-tuning for Text Classification （2018/5/16）
 
@@ -30,6 +29,8 @@ A Simple Method for Commonsense Reasoning (2018/6/11)
 Towards Binary-Valued Gates for Robust LSTM Training （2018/6/11）
 
 Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora (2018/6/11)
+
+The Natural Language Decathlon: Multitask Learning as Question Answering （2018/6/25）
 
 
 # Dialogue Papers
