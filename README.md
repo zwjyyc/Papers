@@ -39,6 +39,10 @@ TALKING TO MACHINES (STATISTICALLY SPEAKING) （2018/6/24）
 
 A Network-based End-to-End Trainable Task-oriented Dialogue System (2018/6/25)
 
+Key-Value Retrieval Networks for Task-Oriented Dialogue （2018/7/23）
+
+A User Simulator for Task-Completion Dialogues （2018/7/23）
+
 
 # Slides 
 Attention is All you Need \\
