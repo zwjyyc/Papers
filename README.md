@@ -45,6 +45,7 @@ A User Simulator for Task-Completion Dialogues （2018/7/23）
 
 Deal or No Deal? End-to-End Learning for Negotiation Dialogues （2018/8/11）
 
+Visual Dialog （2018/8/11）
 
 # Slides 
 Attention is All you Need \\
